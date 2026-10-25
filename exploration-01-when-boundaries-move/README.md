@@ -10,7 +10,7 @@ Beginning with the Fundamental Theorem of Calculus, the publication develops a g
 
 ## Resources
 
-- [Read the publication (PDF)](When_Boundaries_Move_Final.pdf)
+- [Read the publication (PDF)](MathEnrichment_WhenBoundariesMove_NoahDeDomizio.pdf)
 - [Explore the interactive investigation](https://upload-html-494cb5.netlify.app/#hsc)
 
 ## Author
